@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Code\\millionizer\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Millionizer.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Millionizer.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Code\\millionizer\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Code\\millionizer\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Code\\millionizer\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Code\\millionizer\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Millionizer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Millionizer.props",
+      "PackagePath": "build\\Millionizer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Millionizer.props",
+      "PackagePath": "buildMultiTargeting\\Millionizer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Millionizer.props",
+      "PackagePath": "buildTransitive\\Millionizer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
