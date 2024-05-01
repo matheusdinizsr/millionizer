@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Millionizer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c99f9973941308dfdc0bb23289fa444e3d2d8451")]
 [assembly: System.Reflection.AssemblyProductAttribute("Millionizer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Millionizer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

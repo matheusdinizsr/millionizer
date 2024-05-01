@@ -27,3 +27,4 @@ C:\Code\millionizer\obj\Debug\net8.0\refint\Millionizer.dll
 C:\Code\millionizer\obj\Debug\net8.0\Millionizer.pdb
 C:\Code\millionizer\obj\Debug\net8.0\Millionizer.genruntimeconfig.cache
 C:\Code\millionizer\obj\Debug\net8.0\ref\Millionizer.dll
+C:\Code\millionizer\obj\Debug\net8.0\Millionizer.sourcelink.json
